@@ -14,9 +14,10 @@ function Home() {
         <div className="home__row">
           <Product
             id="234593"
-            title="The lean Startup"
+            title="Once Upon a Rhyme: One Week --Three Lives--Three Deaths--a Lifetime in Limericks by 
+            Antony L. Saragas"
             price={19.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_Sy400_.jpg"
+            image="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610086335l/56217519.jpg"
             rating={5}
           />
           <Product
